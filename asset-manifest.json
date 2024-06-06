@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BukshtunovichAN/react-hw-01/static/css/main.7acaea2f.css",
+    "main.js": "/BukshtunovichAN/react-hw-01/static/js/main.465f4102.js",
+    "index.html": "/BukshtunovichAN/react-hw-01/index.html",
+    "main.7acaea2f.css.map": "/BukshtunovichAN/react-hw-01/static/css/main.7acaea2f.css.map",
+    "main.465f4102.js.map": "/BukshtunovichAN/react-hw-01/static/js/main.465f4102.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.465f4102.js"
+  ]
+}

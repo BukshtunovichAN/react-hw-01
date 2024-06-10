@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/BukshtunovichAN/react-hw-01/static/css/main.0e79bd89.css",
-    "main.js": "/BukshtunovichAN/react-hw-01/static/js/main.8dbe06a6.js",
-    "index.html": "/BukshtunovichAN/react-hw-01/index.html",
-    "main.0e79bd89.css.map": "/BukshtunovichAN/react-hw-01/static/css/main.0e79bd89.css.map",
-    "main.8dbe06a6.js.map": "/BukshtunovichAN/react-hw-01/static/js/main.8dbe06a6.js.map"
+    "main.css": "/react-hw-01/static/css/main.0e79bd89.css",
+    "main.js": "/react-hw-01/static/js/main.8dbe06a6.js",
+    "index.html": "/react-hw-01/index.html",
+    "main.0e79bd89.css.map": "/react-hw-01/static/css/main.0e79bd89.css.map",
+    "main.8dbe06a6.js.map": "/react-hw-01/static/js/main.8dbe06a6.js.map"
   },
   "entrypoints": [
     "static/css/main.0e79bd89.css",

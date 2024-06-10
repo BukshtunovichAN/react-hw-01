@@ -2,21 +2,21 @@
     {
         "id": 1,
         "label": ".docx",
-        "percentage": "4%"
+        "percentage": "4"
     },
     {
         "id": 2,
         "label": ".mp3",
-        "percentage": "14%"
+        "percentage": "14"
     },
      {
         "id": 3,
         "label": ".pdf",
-        "percentage": "41%"
+        "percentage": "41"
     },
     {
         "id": 4,
         "label": ".mp4",
-        "percentage": "12%"
+        "percentage": "12"
     }
 ]

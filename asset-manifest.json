@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/BukshtunovichAN/react-hw-01/static/css/main.b93604b5.css",
-    "main.js": "/BukshtunovichAN/react-hw-01/static/js/main.b0e883d1.js",
+    "main.css": "/BukshtunovichAN/react-hw-01/static/css/main.0e79bd89.css",
+    "main.js": "/BukshtunovichAN/react-hw-01/static/js/main.8dbe06a6.js",
     "index.html": "/BukshtunovichAN/react-hw-01/index.html",
-    "main.b93604b5.css.map": "/BukshtunovichAN/react-hw-01/static/css/main.b93604b5.css.map",
-    "main.b0e883d1.js.map": "/BukshtunovichAN/react-hw-01/static/js/main.b0e883d1.js.map"
+    "main.0e79bd89.css.map": "/BukshtunovichAN/react-hw-01/static/css/main.0e79bd89.css.map",
+    "main.8dbe06a6.js.map": "/BukshtunovichAN/react-hw-01/static/js/main.8dbe06a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.b93604b5.css",
-    "static/js/main.b0e883d1.js"
+    "static/css/main.0e79bd89.css",
+    "static/js/main.8dbe06a6.js"
   ]
 }

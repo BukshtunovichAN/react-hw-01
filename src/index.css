@@ -1,4 +1,4 @@
-@import-normalize; /* bring in normalize.css styles */
+/* @import-normalize; bring in normalize.css styles */
 
 body {
   margin: 0;
@@ -12,4 +12,115 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+li {
+  list-style: none;
+}
+
+/* Profile.css */
+.profile {
+  width: 300px;
+  margin: 0 auto;
+  background-color: #f3f6f9;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.description {
+  text-align: center;
+  padding: 30px;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.tag,
+.location {
+  font-size: 16px;
+  color: #757575;
+}
+
+.stats {
+  display: flex;
+  background-color: #eceff1;
+  border-top: 1px solid #e0e0e0;
+}
+
+.stats li {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+  border-right: 1px solid #e0e0e0;
+}
+
+.stats li:last-child {
+  border-right: none;
+}
+
+.label {
+  display: block;
+  font-size: 12px;
+  color: #757575;
+}
+
+.quantity {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
+/* Statistics.css */
+.statistics {
+  width: 300px;
+  margin: 20px auto;
+  background-color: #f3f6f9;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.title {
+  padding: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.stat-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  flex: 1 1 50%;
+  padding: 10px;
+  text-align: center;
+  border-top: 1px solid #e0e0e0;
+}
+
+.item:first-child {
+  border-top: none;
+}
+
+.label {
+  display: block;
+  font-size: 12px;
+  color: #757575;
+}
+
+.percentage {
+  font-size: 18px;
+  font-weight: bold;
 }
